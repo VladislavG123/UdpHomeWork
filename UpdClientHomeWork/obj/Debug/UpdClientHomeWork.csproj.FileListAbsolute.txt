@@ -1,0 +1,15 @@
+c:\users\гороховв.corp\source\repos\UdpClientHomeWork\UpdClientHomeWork\bin\Debug\UpdClientHomeWork.exe.config
+c:\users\гороховв.corp\source\repos\UdpClientHomeWork\UpdClientHomeWork\bin\Debug\UpdClientHomeWork.exe
+c:\users\гороховв.corp\source\repos\UdpClientHomeWork\UpdClientHomeWork\bin\Debug\UpdClientHomeWork.pdb
+c:\users\гороховв.corp\source\repos\UdpClientHomeWork\UpdClientHomeWork\obj\Debug\UpdClientHomeWork.csprojAssemblyReference.cache
+c:\users\гороховв.corp\source\repos\UdpClientHomeWork\UpdClientHomeWork\obj\Debug\MainWindow.g.cs
+c:\users\гороховв.corp\source\repos\UdpClientHomeWork\UpdClientHomeWork\obj\Debug\App.g.cs
+c:\users\гороховв.corp\source\repos\UdpClientHomeWork\UpdClientHomeWork\obj\Debug\UpdClientHomeWork_MarkupCompile.cache
+c:\users\гороховв.corp\source\repos\UdpClientHomeWork\UpdClientHomeWork\obj\Debug\UpdClientHomeWork_MarkupCompile.lref
+c:\users\гороховв.corp\source\repos\UdpClientHomeWork\UpdClientHomeWork\obj\Debug\MainWindow.baml
+c:\users\гороховв.corp\source\repos\UdpClientHomeWork\UpdClientHomeWork\obj\Debug\UpdClientHomeWork.g.resources
+c:\users\гороховв.corp\source\repos\UdpClientHomeWork\UpdClientHomeWork\obj\Debug\UpdClientHomeWork.Properties.Resources.resources
+c:\users\гороховв.corp\source\repos\UdpClientHomeWork\UpdClientHomeWork\obj\Debug\UpdClientHomeWork.csproj.GenerateResource.cache
+c:\users\гороховв.corp\source\repos\UdpClientHomeWork\UpdClientHomeWork\obj\Debug\UpdClientHomeWork.csproj.CoreCompileInputs.cache
+c:\users\гороховв.corp\source\repos\UdpClientHomeWork\UpdClientHomeWork\obj\Debug\UpdClientHomeWork.exe
+c:\users\гороховв.corp\source\repos\UdpClientHomeWork\UpdClientHomeWork\obj\Debug\UpdClientHomeWork.pdb

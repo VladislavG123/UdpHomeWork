@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdpServerHomeWork", "UdpClientHomeWork\UdpServerHomeWork.csproj", "{1A9636A2-752D-4160-8439-033BAC88D860}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdClientHomeWork", "UpdClientHomeWork\UpdClientHomeWork.csproj", "{D42BAECC-937F-4E5E-97AC-567804BE3B98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A9636A2-752D-4160-8439-033BAC88D860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A9636A2-752D-4160-8439-033BAC88D860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A9636A2-752D-4160-8439-033BAC88D860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A9636A2-752D-4160-8439-033BAC88D860}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D42BAECC-937F-4E5E-97AC-567804BE3B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D42BAECC-937F-4E5E-97AC-567804BE3B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D42BAECC-937F-4E5E-97AC-567804BE3B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D42BAECC-937F-4E5E-97AC-567804BE3B98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B751F6F3-1DAE-4917-818B-DB8746D6E3C2}
+	EndGlobalSection
+EndGlobal

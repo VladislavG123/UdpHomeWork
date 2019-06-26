@@ -1,0 +1,7 @@
+c:\users\гороховв.corp\source\repos\UdpClientHomeWork\UdpClientHomeWork\bin\Debug\UdpClientHomeWork.exe.config
+c:\users\гороховв.corp\source\repos\UdpClientHomeWork\UdpClientHomeWork\bin\Debug\UdpClientHomeWork.exe
+c:\users\гороховв.corp\source\repos\UdpClientHomeWork\UdpClientHomeWork\bin\Debug\UdpClientHomeWork.pdb
+c:\users\гороховв.corp\source\repos\UdpClientHomeWork\UdpClientHomeWork\obj\Debug\UdpClientHomeWork.csprojAssemblyReference.cache
+c:\users\гороховв.corp\source\repos\UdpClientHomeWork\UdpClientHomeWork\obj\Debug\UdpClientHomeWork.csproj.CoreCompileInputs.cache
+c:\users\гороховв.corp\source\repos\UdpClientHomeWork\UdpClientHomeWork\obj\Debug\UdpClientHomeWork.exe
+c:\users\гороховв.corp\source\repos\UdpClientHomeWork\UdpClientHomeWork\obj\Debug\UdpClientHomeWork.pdb
