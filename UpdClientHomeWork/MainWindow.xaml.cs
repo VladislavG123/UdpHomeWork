@@ -26,24 +26,18 @@ namespace UpdClientHomeWork
         {
             InitializeComponent();
 
-            Socket clientSocket = new Socket(
-                            AddressFamily.InterNetwork,
-                            SocketType.Dgram,
-                            ProtocolType.Udp);
+            Socket socket = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp);
 
             string ip = "127.0.0.1";
             int port = 12345;
 
-            EndPoint remoteEndPoint =
-            new IPEndPoint(
-            IPAddress.Parse(ip),
-            port);
+            EndPoint remoteEndPoint = new IPEndPoint(IPAddress.Parse(ip), port);
 
             string text = "Hello UDP";
-            clientSocket.SendTo(Encoding.UTF8.GetBytes(text), remoteEndPoint);
+            socket.SendTo(Encoding.UTF8.GetBytes(text), remoteEndPoint);
 
-            text = "Hello UDP 2";
-            clientSocket.SendTo(Encoding.UTF8.GetBytes(text), remoteEndPoint);
+            byte[] buffer = new byte[64 * 1024];
+            socket.ReceiveFrom(buffer, ref remoteEndPoint);
         }
     }
 }
